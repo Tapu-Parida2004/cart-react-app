@@ -20,8 +20,8 @@ Installation
 Clone the repository:
 
 <h2>Run the app </h2>
-git clone <repository-url>
-cd <repository-folder>
+git clone repository-url
+cd repository-folder
 
 <h2> Install dependencies:</h2>
 npm install
